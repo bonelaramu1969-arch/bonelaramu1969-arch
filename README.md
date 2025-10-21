@@ -1,4 +1,4 @@
-# 👨‍💻 Bonela Ramu — ECE | Designer | Developer | Creator
+# 👨‍💻 Bonela Arun Kumar — ECE | Designer | Developer | Creator
 
 ### ✨ Welcome to My Digital Space!
 I'm a **multi-disciplinary creator** who works across **electronics, AI, and design** to bring ideas to life. Whether it’s a cinematic video, an IoT prototype, or a full-stack app — I love to build things that **inspire and innovate**.
